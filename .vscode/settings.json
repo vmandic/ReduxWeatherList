@@ -1,0 +1,35 @@
+{
+    "vsicons.presets.angular": false,
+
+    "html.format.wrapAttributes": "force-aligned",
+
+    "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+    "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": true,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+
+    "editor.wordWrap": "on",
+    "editor.detectIndentation": true,
+    "editor.renderIndentGuides": true,
+    "editor.codeLens": true,
+    "editor.matchBrackets": false,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.maxColumn": 30,
+
+    "files.eol": "\r\n",
+    "files.associations": {
+        "**/src/*/*.js": "javascriptreact",
+        "**/src/*.js": "javascriptreact"
+    },
+
+    "guides.active.enabled": false,
+    "guides.active.style": "dashed",
+    "guides.normal.width": 2,
+    "guides.active.expandBrackets": true
+
+}
